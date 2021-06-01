@@ -2,6 +2,16 @@ library(tidyverse)
 
 M <- read_csv("MealPlanning.csv")
 
+# Heading explanations:
+# Meal - corresponds to general meal categories for packing in drybags
+# Meal_SubCategory - indicates which dinner or meal items go with
+# Weight_Category - corresponds to NOLS Cookery meal planning categories
+# Item - item name
+# Amount - common unit for purchasing
+# Weight - in grams
+# Weight - in pounds
+# Purchasing - where will items be purchased
+
 sum(M$Weight, na.rm = TRUE)/1000*2.2 # Total weight shoudl be ~112 punds including emergency meals
 
 M %>%
