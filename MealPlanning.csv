@@ -1,0 +1,110 @@
+Meal,Meal_SubCategory,Weight_category,Item,Amount,Weight,Lbs,Purchasing
+Trail foods,Lunch,Trail foods,Animal crackers,12 oz box,340,0.748,NH
+Dinner,Soup Din 1,Dinner,BearCreek Chilli,1 pack,660,1.452,NH
+Dinner,Soup Din 4,Dinner,BearCreek Creamy CheeseBroc,1 pack,660,1.452,NH
+Dinner,Soup Din 3,Dinner,BearCreek Creamy Minstrone,1 pack,660,1.452,NH
+Dinner,Soup Din 2,Dinner,BearCreek Creamy Wildrice Soup,1 pack,660,1.452,NH
+Bfast,Bfast,Beakfast,blueberries,3 c,360,0.792,NH
+Dinner,Couscous,"Soups, bases, dessserts",broth,,0,0,NH
+Bfast,Bfast,Sugar,brown sugar,8.5 c,1870,4.114,Kotz
+Dinner,Mid East Night,Dinner,cashews,1 c,120,0.264,NH
+Dinner,Couscous,Dinner,cashews,1 c,120,0.264,NH
+Dinner,Curry,Dinner,cashews,2 c,240,0.528,NH
+Dinner,Mexican Night,Cheese,cheddar cheese,1.0 lbs,480,1.056,Kay
+Dinner,Couscous,Cheese,cheddar cheese,1 lbs,480,1.056,Kay
+Dinner,Bfast for dinner,Cheese,cheddar cheese,0.5 lbs,240,0.528,Kay
+Trail foods,Lunch,Cheese,Cheese,4 lbs,1920,4.224,Kay
+Trail foods,Lunch,Trail foods,Cheeze its,2 12.4oz boxes,700,1.54,Kotz
+Trail foods,Lunch,Trail foods,choc covered almonds,,240,0.528,NH
+Dinner,Other,"Soups, bases, dessserts",chocolate bars,10 (3.2 oz) bars,900,1.98,Sam
+Drinks,Other,Drinks,cocoa mix,10 c,1200,2.64,NH
+Drinks,Other,Drinks,coffee,2 lbs,900,1.98,NH
+Dinner,Soup Din 1,Baking,Cornbread mix,4 cups,480,1.056,Andis
+Dinner,Couscous,Dinner,couscous,1.5 lbs,720,1.584,NH
+Bfast,Bfast,Beakfast,cranberries,10 c,1200,2.64,NH
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",cumin,,60,0.132,Andis
+Dinner,Curry,Dinner,curry sauce,1 pack ,220,0.484,NH
+Bfast,Bfast,Beakfast,dried apples,5 c,600,1.32,NH
+Trail foods,Lunch,Trail foods,dried fruit,,NA,#VALUE!,
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",dried onions,,60,0.132,Andis
+Dinner,Couscous,"Soups, bases, dessserts",dried veggies,1 c,120,0.264,Andis
+Dinner,Gado Gado,"Soups, bases, dessserts",dried veggies,1 c,120,0.264,Andis
+Dinner,Bfast for dinner,"Soups, bases, dessserts",dried veggies,0.5 c,60,0.132,Andis
+Dinner,Curry,"Soups, bases, dessserts",dried veggies,1 c,120,0.264,Andis
+Dinner,Mid East Night,Dinner,falafel mix,4 packs,360,0.792,NH
+Dinner,Pizza,Baking,flour,5 c,675,1.485,NH
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",garlic powder,,60,0.132,Andis
+Trail foods,Lunch,Trail foods,GORP,,1440,3.168,Sam
+Bfast,Bfast,Beakfast,granola,30c,3600,7.92,Sam
+Trail foods,Lunch,Trail foods,Granola bars,32 count (30 gram each),960,2.112,Sam
+Bfast,Bfast,Beakfast,grape nuts,"14c (1, 29 oz box)",1740,3.828,NH
+Dinner,Bfast for dinner,Dinner,hashbrowns,2 cartons,360,0.792,Andis
+Drinks,Other,Drinks,hot cider mix,10 packs,200,0.44,NH
+Dinner,Mid East Night,Dinner,humus powder,1 c,120,0.264,NH
+Dinner,Mexican Night,Dinner,instant beans,2 c,240,0.528,Andis
+Dinner,Soup Din 3,Dinner,instant beans,1 c,120,0.264,Andis
+Dinner,Soup Din 4,Dinner,instant mashed potatoes,1 c,120,0.264,Andis
+Dinner,Mexican Night,Dinner,instant rice,2 C,240,0.528,NH
+Dinner,Soup Din 2,Dinner,instant rice,2 c,240,0.528,NH
+Dinner,Curry,Dinner,instant rice,4 c,480,1.056,NH
+Dinner,Soup Din 3,Dinner,instant rice,2 c,240,0.528,NH
+Dinner,Soup Din 4,Dinner,instant rice,2 c,240,0.528,NH
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",italian seasoning,,60,0.132,Andis
+Trail foods,Lunch,Trail foods,M&Ms,2 family size (19.2 oz) bags,1100,2.42,Sam
+Trail foods,Lunch,Trail foods,malted milk balls,,480,1.056,NH
+Dinner,Pizza,Cheese,mozzarela cheese,2.0 lbs,960,2.112,Kay
+Dinner,Soup Din 1,Oil,oil,0.5 c,120,0.264,Kotz
+Dinner,Mexican Night,Oil,oil,0.25 c,60,0.132,Kotz
+Dinner,Mid East Night,Oil,oil,0.5 c,120,0.264,Kotz
+Dinner,Bfast for dinner,Oil,oil,0.25 c,60,0.132,Kotz
+Bfast,Bfast,Breakfast,pancake mix,6 c,720,1.584,NH
+Dinner,Red Pasta 1,Cheese,parmesan cheese,0.5 lbs,240,0.528,Sam
+Dinner,Pesto Pasta 1,Cheese,parmesan cheese,0.5 lbs,240,0.528,Sam
+Dinner,Red Pasta 2,Cheese,parmesan cheese,0.5 lbs,240,0.528,Sam
+Dinner,Pesto Pasta 2,Cheese,parmesan cheese,0.5 lbs,240,0.528,Sam
+Dinner,Red Pasta 1,Dinner,pasta,1.5 lbs,720,1.584,Sam
+Dinner,Pesto Pasta 1,Dinner,pasta,1.5 lbs,720,1.584,Sam
+Dinner,Gado Gado,Dinner,pasta,1.5 lbs,720,1.584,Sam
+Dinner,Red Pasta 2,Dinner,pasta,1.5 lbs,720,1.584,Sam
+Dinner,Pesto Pasta 2,Dinner,pasta,1.5 lbs,720,1.584,Sam
+Trail foods,Lunch,Trail foods,PB jar,1.5 jars (16 oz jar),675,1.485,Kotz
+Trail foods,Lunch,Trail foods,PB preztels,,NA,#VALUE!,
+Dinner,Gado Gado,Dinner,peanut butter,0.5 lbs,240,0.528,Kotz
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",pepper,,60,0.132,Andis
+Dinner,Pizza,Meat,pepperoni,0.5 lbs,240,0.528,Sam
+Dinner,Pesto Pasta 1,Dinner,pesto,2 tubes,168,0.3696,NH
+Dinner,Pesto Pasta 2,Dinner,pesto,2 tubes,168,0.3696,NH
+Dinner,Mid East Night,Dinner,pita,4 count,330,0.726,Sam
+Dinner,Curry,Milk,powdered coconut milk,3 c,360,0.792,Andis
+Bfast,Bfast,Sugar,powdered honey,3 c,360,0.792,Andis
+Bfast,Bfast,Milk,powdered milk,16 c,1920,4.224,Andis
+Bfast,Bfast,Beakfast,quick oats,30 c (15 cup per 42oz container),3600,7.92,Sam
+Bfast,Bfast,Beakfast,rasins,10 c,1200,2.64,Sam
+Trail foods,Lunch,Trail foods,rice snacks,,720,1.584,NH
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",salt,,60,0.132,Andis
+Trail foods,Lunch,Trail foods,seseme sticks,,720,1.584,NH
+Trail foods,Lunch,Trail foods,Snickers bars,16 count (50 gram each),800,1.76,Sam
+Dinner,Red Pasta 1,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Pesto Pasta 1,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Mexican Night,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Pizza,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Couscous,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Gado Gado,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Red Pasta 2,"Soups, bases, dessserts",spices,,0,0,Andis
+Dinner,Pesto Pasta 2,"Soups, bases, dessserts",spices,,0,0,Andis
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",Sriracha,small (9 oz) bottle,270,0.594,NH
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",taco seasoning,,60,0.132,Andis
+Drinks,Other,Drinks,teas,,NA,#VALUE!,Personal
+Dinner,Red Pasta 1,Dinner,tomato paste,6 oz can,180,0.396,Kotz
+Dinner,Red Pasta 2,Dinner,tomato paste,6 oz can,180,0.396,Kotz
+Dinner,Red Pasta 1,"Soups, bases, dessserts",tomato powder,0.5 c,60,0.132,Andis
+Dinner,Mexican Night,"Soups, bases, dessserts",tomato powder,0.5 c,60,0.132,Andis
+Dinner,Pizza,"Soups, bases, dessserts",tomato powder,0.5 c,60,0.132,Andis
+Dinner,Red Pasta 2,"Soups, bases, dessserts",tomato powder,0.5 c,60,0.132,Andis
+Dinner,Mexican Night,Dinner,tortillas,8,480,1.056,Sam
+Trail foods,Lunch,Trail foods,tortillas,24 count,1440,3.168,Sam
+"Soups, bases, dessserts",Other,"Soups, bases, dessserts",veg broth cubes,,60,0.132,Andis
+Dinner,Pizza,Baking,yeast,2 pkg,0,0,NH
+Trail foods,Lunch,Meat,Meat log (aka summer sausage),1 lbs,450,0.99,Kay
+Dinner,Other,Dinner,Meat log (aka summer sausage),1 lbs,450,0.99,Kay
+Trail foods,Lunch,Meat,Jerkey,1 lbs,450,0.99,Sam
